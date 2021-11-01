@@ -1,16 +1,30 @@
-# Github.Guide.to.Readme
+
 # Basic Guide to Writing ReadMes
+
+Have a status badge of all your pipelines in the readme, this helps to know if issues are being worked on. 
+![Aws Services CI](https://github.com/meroware/example-aws-services-github-worflows/workflows/Aws%20Services%20CI/badge.svg)
+
+''' 
+Syntax:![Aws Services CI](https://github.com/meroware/example-aws-services-github-worflows/workflows/Aws%20Services%20CI/badge.svg)
+'''
+
+
+> A breif overview of project
+
+> purpose of project
 
 <img src="./logo.svg" align="right"
      alt="Guide Basics" width="160" height="160">
 
-[![npm version](https://img.shields.io/npm/v/react-figma.svg)](https://www.npmjs.com/package/react-figma)
-[![CircleCI](https://circleci.com/gh/react-figma/react-figma.svg?style=shield)](https://circleci.com/gh/react-figma/react-figma)
 
-
+* ♻️ MainPoints
+     * Title
+     * Descriptions [Technical Writing]
+     * Installation
+     * Diagrams/Charts/Images
+     * CodeOwners/License/AcknowledgmentsRunning Test
 * 🍬 Compatible with [react-native](https://facebook.github.io/react-native/), [react-sketchapp](https://github.com/airbnb/react-sketchapp), [react-primitives](https://github.com/lelandrichardson/react-primitives) API.
-* 🦄 Importing links/images/docs/stats [Yoga Layout](https://yogalayout.com/).
-* ♻️ Necessary MainPoints [HMR](https://webpack.js.org/concepts/hot-module-replacement/) support.
+* 🦄 Importing links/images/docs/stats [Example - Jupyter Link](https://jupyter.org/).
 * ⚙️ Built on [Figma Plugin API](https://www.figma.com/plugin-docs/intro/).
 * 🚫 **Is not a code generator**.
 
