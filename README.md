@@ -13,19 +13,18 @@ Syntax for Status Badge:
      * Include 3 (''') before and after 
 
 ```
+
 ## Getting Started
 
 > A breif overview of project
 >>This File was created to be a Template or Guide, for myself. But it is also for public, and free to be forked/cloned to your own profile. 
 >>> Get into the habit early of creating readable guides. Writing 'clean' files is as important as writing 'clean' code.
+```
 Syntax  
      * Use a > symbol
      *  Keep it short. 
-     
 ```
- Purpose of project, if your description needs to be longer. 
- Example: 
-
+## Project Image
 <img src="./logo.svg" align="right"
      alt="Guide Basics" width="160" height="160">
 
