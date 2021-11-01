@@ -12,15 +12,15 @@ Syntax for Status Badge:
      * Include 3 (''') before and after 
 
 ```
+## Getting Started
 
 > A breif overview of project 
-
 ```
 Syntax  
      * Use a > symbol
      *  Keep it short. 
+     
 ```
-## Getting Started
 > Purpose of project, if your description needs to be longer. 
 > Example: 
 
