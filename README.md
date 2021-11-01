@@ -1,5 +1,7 @@
 
 # Basic Guide for 'clean' README.MD files 
+
+![Aws Services CI](https://github.com/meroware/example-aws-services-github-worflows/workflows/Aws%20Services%20CI/badge.svg)
 From the perspective of a ♎ 
 
 * ♻️ MainPoints
@@ -14,9 +16,6 @@ From the perspective of a ♎
 * 🦄 Importing links/images/docs/stats [Example - Jupyter Link](https://jupyter.org/).
 * ⚙️ Built on [Figma Plugin API](https://www.figma.com/plugin-docs/intro/).
 * 🚫 **Is not a code generator**.
-
-
-![Aws Services CI](https://github.com/meroware/example-aws-services-github-worflows/workflows/Aws%20Services%20CI/badge.svg)
 
 Have a status badge of all your pipelines in the readme, this helps to know if issues are being worked on. 
 
