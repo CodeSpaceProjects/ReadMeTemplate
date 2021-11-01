@@ -16,6 +16,12 @@ Syntax for Status Badge:
 
 # Project Image
 <p align="center"><img src="https://user-images.githubusercontent.com/1270648/89524327-09365c80-d7ed-11ea-9cb1-08f6fd56a350.gif" width="800"></p>
+```
+    1.Image Display:
+     * > Testing
+     * >> Indents
+     * >>> Steps
+```
 
 ## Getting Started
 
