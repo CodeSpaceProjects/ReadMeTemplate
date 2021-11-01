@@ -1,5 +1,5 @@
 
-# Basic Guide to Writing README.MD files ♎ (From a Libra Perfectionist)
+# Basic Guide to Writing README.MD files (♎ Approved)
 
 ![Aws Services CI](https://github.com/meroware/example-aws-services-github-worflows/workflows/Aws%20Services%20CI/badge.svg)
 
