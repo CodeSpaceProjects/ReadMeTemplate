@@ -20,8 +20,9 @@ Syntax for Status Badge:
 ## Getting Started
 
 > A breif overview of project
->>This File was created to be a Template or Guide, for myself. But it is also for public, and free to be forked/cloned to your own profile. 
->>> Get into the habit early of creating readable guides. Writing 'clean' files is as important as writing 'clean' code.
+>>This File was created to be a Template or Guide, for myself. Feel Free to Clone/Fork. 
+>>> Get into the habit early of creating readable files.
+>>>> Writing 'clean' files is as important as writing 'clean' code.
 ```
 Syntax  
      * Use a > symbol
