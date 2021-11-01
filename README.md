@@ -6,9 +6,10 @@
 Have a status badge of all your pipelines in the readme, this helps to know if issues are being worked on. 
 
 ```
-Syntax for Status Badge: 
-     *![Aws Services CI](name_of_badge_ . _ svg)
-     *  Include 3 (''') before and after 
+Syntax for Status Badge:
+
+     * ![Aws Services CI](name_of_badge_ . _ svg)
+     * Include 3 (''') before and after 
 
 ```
 
@@ -18,11 +19,10 @@ Syntax for Status Badge:
 Syntax  
      * Use a > symbol
      *  Keep it short. 
-
 ```
-
 ## Getting Started
 > Purpose of project, if your description needs to be longer. 
+> Example: 
 
 <img src="./logo.svg" align="right"
      alt="Guide Basics" width="160" height="160">
