@@ -4,13 +4,6 @@
 ![AppVeyor](https://img.shields.io/appveyor/build/gruntjs/grunt?color=magenta&label=%20%E2%99%8E%20Endorsed&logoColor=magenta&style=plastic)![Aws Services CI](https://github.com/meroware/example-aws-services-github-worflows/workflows/Aws%20Services%20CI/badge.svg) 
 <p align="center"><img src="https://user-images.githubusercontent.com/1270648/89524327-09365c80-d7ed-11ea-9cb1-08f6fd56a350.gif" width="800"></p>
 
-```
-Syntax
-
-    <p align="center"><img src="name_of_gif/png" width="800"></p>
-
-```
-
 * ♻️ MainPoints
      * Title
      * Descriptions [Technical Writing]
@@ -44,10 +37,16 @@ Syntax
 ```
 
 * ♻️ MainPoints
-     * Title
-     * Descriptions [Technical Writing]
-     * Installation
-     * Diagrams/Charts/Images
+    * Title
+    * Descriptions [Technical Writing]
+    * Installation
+    * Diagrams/Charts/Images
+```
+Syntax
+
+    <p align="center"><img src="name_of_gif/png" width="800"></p>
+
+```
      * CodeOwners/License/Acknowledgments/Running Test
      
      
