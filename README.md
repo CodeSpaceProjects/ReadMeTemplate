@@ -6,7 +6,11 @@
 Have a status badge of all your pipelines in the readme, this helps to know if issues are being worked on. 
 
 ```
-syntax for status badge:  ![Aws Services CI](name_of_badge_ . _ svg)
+syntax for status badge: 
+* '''
+*![Aws Services CI](name_of_badge_ . _ svg)
+* '''
+
 
 ```
 
