@@ -12,10 +12,17 @@ Syntax for Status Badge:
 
 ```
 
+> A breif overview of project 
 
-> A breif overview of project
+```
+Syntax  
+     * Use a > symbol
+     *  Keep it short. 
 
-> purpose of project
+```
+
+## Getting Started
+> Purpose of project, if your description needs to be longer. 
 
 <img src="./logo.svg" align="right"
      alt="Guide Basics" width="160" height="160">
