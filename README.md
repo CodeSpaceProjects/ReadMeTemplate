@@ -1,5 +1,5 @@
 
-# Basic Guide to Writing ReadMes
+# Basic Guide to Writing README.MD files... step by step with examples
 
 ![Aws Services CI](https://github.com/meroware/example-aws-services-github-worflows/workflows/Aws%20Services%20CI/badge.svg)
 
