@@ -1,5 +1,5 @@
 
-# Basic Guide for 'clean' README.MD  
+# A OCD's Guide for writing a 'clean' README.MD 
 
 ![Aws Services CI](https://github.com/meroware/example-aws-services-github-worflows/workflows/Aws%20Services%20CI/badge.svg) ![AppVeyor](https://img.shields.io/appveyor/build/gruntjs/grunt?color=magenta&label=%20%E2%99%8E%20Endorsed&logoColor=magenta&style=plastic)
 
