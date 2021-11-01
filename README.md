@@ -2,12 +2,11 @@
 # React Figma
 
 <img src="./logo.svg" align="right"
-     alt="React Figma logo by Lera Lesik" width="160" height="160">
+     alt="Guide Basics" width="160" height="160">
 
 [![npm version](https://img.shields.io/npm/v/react-figma.svg)](https://www.npmjs.com/package/react-figma)
 [![CircleCI](https://circleci.com/gh/react-figma/react-figma.svg?style=shield)](https://circleci.com/gh/react-figma/react-figma)
 
-A React renderer for [Figma](https://www.figma.com). Use React components as a source for your designs.
 
 * 🍬 Compatible with [react-native](https://facebook.github.io/react-native/), [react-sketchapp](https://github.com/airbnb/react-sketchapp), [react-primitives](https://github.com/lelandrichardson/react-primitives) API.
 * 🦄 Flexible layouts support with [Yoga Layout](https://yogalayout.com/).
