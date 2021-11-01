@@ -4,26 +4,35 @@
 ![AppVeyor](https://img.shields.io/appveyor/build/gruntjs/grunt?color=magenta&label=%20%E2%99%8E%20Endorsed&logoColor=magenta&style=plastic)![Aws Services CI](https://github.com/meroware/example-aws-services-github-worflows/workflows/Aws%20Services%20CI/badge.svg) 
 <p align="center"><img src="https://user-images.githubusercontent.com/1270648/89524327-09365c80-d7ed-11ea-9cb1-08f6fd56a350.gif" width="800"></p>
 
-## Getting Started
+## What to Include
 
-> A breif overview of project
->>This File was created to be a Template or Guide, for myself. Feel Free to Clone/Fork. 
->>> Get into the habit early of creating readable files.
->>>> Writing 'clean' files is as important as writing 'clean' code.
+* ♻️ MainPoints
+* 📛 Title
+* 📔 Descriptions [Technical Writing] 
+* 🧰 Installation
+* 📊 Diagrams/Charts/Images/Gifs 
+* 🚫 CodeOwners/License/Acknowledgments/Running Test
+
+```
+Syntax   
+     * Use a > symbol
+     *  Keep it short. 
+```
+
+## Getting Started
+>♻️ A breif overview of project
+>>🍬 This File was created to be a Template or Guide, for myself. Feel Free to Clone/Fork. 
+>>>🦄 Get into the habit early of creating readable files.
+>>>>⚙️ Writing 'clean' files is as important as writing 'clean' code.
 ```
 Syntax  
      * Use a > symbol
      *  Keep it short. 
 ```
 
-* ♻️ MainPoints
-     * Title
-     * Descriptions [Technical Writing]
-     * Installation
-     * Diagrams/Charts/Images
-     * CodeOwners/License/Acknowledgments/Running Test
-* 🍬 Compatible with [react-native](https://facebook.github.io/react-native/), [react-sketchapp](https://github.com/airbnb/react-sketchapp), [react-primitives](https://github.com/lelandrichardson/react-primitives) API.
-* 🦄 Importing links/images/docs/stats [Example - Jupyter Link](https://jupyter.org/).
+💕 Compatible with [react-native](https://facebook.github.io/react-native/), [react-sketchapp](https://github.com/airbnb/react-sketchapp), [react-primitives](https://github.com/lelandrichardson/react-primitives) API.
+🦄 Importing links/images/docs/stats [Example - Jupyter Link](https://jupyter.org/). 
+
 * ⚙️ Built on [Figma Plugin API](https://www.figma.com/plugin-docs/intro/).
 * 🚫 **Is not a code generator**.
 
