@@ -4,6 +4,18 @@
 ![AppVeyor](https://img.shields.io/appveyor/build/gruntjs/grunt?color=magenta&label=%20%E2%99%8E%20Endorsed&logoColor=magenta&style=plastic)![Aws Services CI](https://github.com/meroware/example-aws-services-github-worflows/workflows/Aws%20Services%20CI/badge.svg) 
 <p align="center"><img src="https://user-images.githubusercontent.com/1270648/89524327-09365c80-d7ed-11ea-9cb1-08f6fd56a350.gif" width="800"></p>
 
+## Getting Started
+
+> A breif overview of project
+>>This File was created to be a Template or Guide, for myself. Feel Free to Clone/Fork. 
+>>> Get into the habit early of creating readable files.
+>>>> Writing 'clean' files is as important as writing 'clean' code.
+```
+Syntax  
+     * Use a > symbol
+     *  Keep it short. 
+```
+
 * ♻️ MainPoints
      * Title
      * Descriptions [Technical Writing]
@@ -23,17 +35,6 @@ Syntax for Status Badge:
      * ![Aws Services CI](name_of_badge_ . _ svg)
      * Include 3 (''') before and after 
 
-```
-## Getting Started
-
-> A breif overview of project
->>This File was created to be a Template or Guide, for myself. Feel Free to Clone/Fork. 
->>> Get into the habit early of creating readable files.
->>>> Writing 'clean' files is as important as writing 'clean' code.
-```
-Syntax  
-     * Use a > symbol
-     *  Keep it short. 
 ```
 
 * ♻️ MainPoints
