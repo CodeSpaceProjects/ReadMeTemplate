@@ -24,9 +24,8 @@ Syntax
      * Use a > symbol
      *  Keep it short. 
 ```
-## Project Image
-<img src="./logo.svg" align="right"
-     alt="Guide Basics" width="160" height="160">
+# Project Image
+<p align="center"><img src="https://user-images.githubusercontent.com/1270648/89524327-09365c80-d7ed-11ea-9cb1-08f6fd56a350.gif" width="800"></p>
 
 
 * ♻️ MainPoints
