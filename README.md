@@ -1,5 +1,5 @@
 # Github.Guide.to.Readme
-# React Figma
+# Basic Guide to Writing ReadMes
 
 <img src="./logo.svg" align="right"
      alt="Guide Basics" width="160" height="160">
@@ -9,8 +9,8 @@
 
 
 * 🍬 Compatible with [react-native](https://facebook.github.io/react-native/), [react-sketchapp](https://github.com/airbnb/react-sketchapp), [react-primitives](https://github.com/lelandrichardson/react-primitives) API.
-* 🦄 Flexible layouts support with [Yoga Layout](https://yogalayout.com/).
-* ♻️ Hydration and [HMR](https://webpack.js.org/concepts/hot-module-replacement/) support.
+* 🦄 Importing links/images/docs/stats [Yoga Layout](https://yogalayout.com/).
+* ♻️ Necessary MainPoints [HMR](https://webpack.js.org/concepts/hot-module-replacement/) support.
 * ⚙️ Built on [Figma Plugin API](https://www.figma.com/plugin-docs/intro/).
 * 🚫 **Is not a code generator**.
 
