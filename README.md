@@ -2,6 +2,20 @@
 # Basic Guide for 'clean' README.MD files 
 From the perspective of a ♎ 
 
+* ♻️ MainPoints
+     * Title
+     * Descriptions [Technical Writing]
+     * Installation
+     * Diagrams/Charts/Images
+     * CodeOwners/License/Acknowledgments/Running Test
+     
+     
+* 🍬 Compatible with [react-native](https://facebook.github.io/react-native/), [react-sketchapp](https://github.com/airbnb/react-sketchapp), [react-primitives](https://github.com/lelandrichardson/react-primitives) API.
+* 🦄 Importing links/images/docs/stats [Example - Jupyter Link](https://jupyter.org/).
+* ⚙️ Built on [Figma Plugin API](https://www.figma.com/plugin-docs/intro/).
+* 🚫 **Is not a code generator**.
+
+
 ![Aws Services CI](https://github.com/meroware/example-aws-services-github-worflows/workflows/Aws%20Services%20CI/badge.svg)
 
 Have a status badge of all your pipelines in the readme, this helps to know if issues are being worked on. 
