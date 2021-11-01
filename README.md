@@ -1,12 +1,14 @@
 
 # Basic Guide to Writing ReadMes
 
-Have a status badge of all your pipelines in the readme, this helps to know if issues are being worked on. 
 ![Aws Services CI](https://github.com/meroware/example-aws-services-github-worflows/workflows/Aws%20Services%20CI/badge.svg)
 
-''' 
-Syntax:![Aws Services CI](https://github.com/meroware/example-aws-services-github-worflows/workflows/Aws%20Services%20CI/badge.svg)
-'''
+Have a status badge of all your pipelines in the readme, this helps to know if issues are being worked on. 
+
+```
+syntax for status badge:  ![Aws Services CI](name_of_badge_ . _ svg)
+
+```
 
 
 > A breif overview of project
