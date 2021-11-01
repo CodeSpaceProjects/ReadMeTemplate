@@ -1,5 +1,5 @@
 
-# Basic Guide to writing 'clean' README.MD files 
+# Basic Guide for 'clean' README.MD files 
 From the perspective of a ♎ 
 
 ![Aws Services CI](https://github.com/meroware/example-aws-services-github-worflows/workflows/Aws%20Services%20CI/badge.svg)
