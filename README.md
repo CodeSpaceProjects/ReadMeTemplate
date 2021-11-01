@@ -14,15 +14,16 @@ Syntax for Status Badge:
 ```
 ## Getting Started
 
-> A breif overview of project 
+> A breif overview of project
+>>This File was Created as a Template or Guide for myself, But I am posting it public for other beginners who want to publish projects seriously.
 ```
 Syntax  
      * Use a > symbol
      *  Keep it short. 
      
 ```
-> Purpose of project, if your description needs to be longer. 
-> Example: 
+ Purpose of project, if your description needs to be longer. 
+ Example: 
 
 <img src="./logo.svg" align="right"
      alt="Guide Basics" width="160" height="160">
@@ -33,11 +34,14 @@ Syntax
      * Descriptions [Technical Writing]
      * Installation
      * Diagrams/Charts/Images
-     * CodeOwners/License/AcknowledgmentsRunning Test
+     * CodeOwners/License/Acknowledgments/Running Test
+     
+     
 * 🍬 Compatible with [react-native](https://facebook.github.io/react-native/), [react-sketchapp](https://github.com/airbnb/react-sketchapp), [react-primitives](https://github.com/lelandrichardson/react-primitives) API.
 * 🦄 Importing links/images/docs/stats [Example - Jupyter Link](https://jupyter.org/).
 * ⚙️ Built on [Figma Plugin API](https://www.figma.com/plugin-docs/intro/).
 * 🚫 **Is not a code generator**.
+
 
 <p align="center"><img src="https://user-images.githubusercontent.com/1270648/89524327-09365c80-d7ed-11ea-9cb1-08f6fd56a350.gif" width="800"></p>
 
