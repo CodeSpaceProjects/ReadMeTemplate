@@ -3,7 +3,7 @@
 
 ![Aws Services CI](https://github.com/meroware/example-aws-services-github-worflows/workflows/Aws%20Services%20CI/badge.svg)
 
-From the perspective of a ♎ 
+![Written by a ♎ ](https://github.com/meroware/example-aws-services-github-worflows/workflows/Aws%20Services%20CI/badge.svg)
 
 * ♻️ MainPoints
      * Title
